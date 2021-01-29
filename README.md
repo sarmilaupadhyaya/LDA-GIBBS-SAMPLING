@@ -1,6 +1,6 @@
 # LDA GIBBS SAMPLING #
 
-In this PROJECT, i implementED LDA and try it out on a corpus.
+In this PROJECT, I implemented LDA and tried it out on a corpus.
 
 Also, I implemented a Gibbs sampler which resamples a topic for each word in the
 corpus according to the probability distribution in formula [5] of Griffiths
